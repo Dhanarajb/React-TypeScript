@@ -1,3 +1,3 @@
 # React-TypeScript
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-8fghfy)
+https://login-1670c.firebaseapp.com/?942121
